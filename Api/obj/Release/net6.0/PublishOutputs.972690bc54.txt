@@ -1,0 +1,11 @@
+E:\Gabriel\CodigosVisual\Api\Api\obj\Release\net6.0\PubTmp\Out\Api.exe
+E:\Gabriel\CodigosVisual\Api\Api\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\Gabriel\CodigosVisual\Api\Api\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\Gabriel\CodigosVisual\Api\Api\obj\Release\net6.0\PubTmp\Out\Api.dll
+E:\Gabriel\CodigosVisual\Api\Api\obj\Release\net6.0\PubTmp\Out\Api.deps.json
+E:\Gabriel\CodigosVisual\Api\Api\obj\Release\net6.0\PubTmp\Out\Api.runtimeconfig.json
+E:\Gabriel\CodigosVisual\Api\Api\obj\Release\net6.0\PubTmp\Out\Api.pdb
+E:\Gabriel\CodigosVisual\Api\Api\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+E:\Gabriel\CodigosVisual\Api\Api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\Gabriel\CodigosVisual\Api\Api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Gabriel\CodigosVisual\Api\Api\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

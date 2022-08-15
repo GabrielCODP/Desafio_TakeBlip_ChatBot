@@ -1,0 +1,11 @@
+E:\Gabriel\CodigosVisual\Api\Output\Api.exe
+E:\Gabriel\CodigosVisual\Api\Output\appsettings.Development.json
+E:\Gabriel\CodigosVisual\Api\Output\appsettings.json
+E:\Gabriel\CodigosVisual\Api\Output\Api.dll
+E:\Gabriel\CodigosVisual\Api\Output\Api.deps.json
+E:\Gabriel\CodigosVisual\Api\Output\Api.runtimeconfig.json
+E:\Gabriel\CodigosVisual\Api\Output\Api.pdb
+E:\Gabriel\CodigosVisual\Api\Output\Microsoft.OpenApi.dll
+E:\Gabriel\CodigosVisual\Api\Output\Swashbuckle.AspNetCore.Swagger.dll
+E:\Gabriel\CodigosVisual\Api\Output\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Gabriel\CodigosVisual\Api\Output\Swashbuckle.AspNetCore.SwaggerUI.dll
